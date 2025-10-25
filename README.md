@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre:Guillermo Adrian Rodriguez Marcial
+- Matrícula:S25018132
+- Fecha:10/10/2025
 
 ## 🎯 Objetivos
 
